@@ -1,0 +1,15 @@
+name: haohao
+
+person:
+  name: haha
+  age: 31
+  addr: beijing
+
+
+student:
+  - name: zhangsan
+    age: 18
+    score: 100
+  - name: lisi
+    age: 15
+    score: 99
